@@ -2,12 +2,8 @@ package gxa
 
 import (
 	"log"
-
-	"github.com/gongzhxu/gx-b"
 )
 
 func AFunc() {
-	log.Println("this gx-a")
-
-	gxb.BFunc()
+	log.Println("this is v0.1.0")
 }
