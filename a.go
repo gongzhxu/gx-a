@@ -5,5 +5,5 @@ import (
 )
 
 func AFunc() {
-	log.Println("this is v0.1.2")
+	log.Println("this is v1.0.0")
 }
